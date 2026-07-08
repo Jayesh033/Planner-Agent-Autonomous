@@ -56,11 +56,7 @@ Multi-step planning forces the agent to decompose complex problems rather than h
 
 ## Setup
 
-### 1. Clone / place files
-
-```bash
-cd "E:\Fluid Ai"
-```
+### 1. Clone it
 
 ### 2. Create virtual environment
 

@@ -79,7 +79,8 @@ copy .env.example .env
 # Edit .env and set your GOOGLE_API_KEY
 ```
 
-Get a free Gemini API key at: https://aistudio.google.com/app/apikey
+Get a free groq API key at: 
+https://console.groq.com/keys
 
 ### 5. Run the API
 

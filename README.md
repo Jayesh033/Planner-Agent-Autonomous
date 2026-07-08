@@ -186,7 +186,7 @@ E:\Fluid Ai\
 
 ## Stack
 
-- **LLM**: Google Gemini 1.5 Flash (free tier)
+- **LLM**: Gorq Lamma3.3 70B 
 - **API**: FastAPI + Uvicorn
 - **Document**: python-docx
 - **Retry**: tenacity (exponential backoff, 3 attempts)
